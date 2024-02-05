@@ -1,1 +1,3 @@
-console.log("Ola");
+import test from "./unsedFunction";
+
+console.log(test());
